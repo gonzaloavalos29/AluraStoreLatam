@@ -1,5 +1,3 @@
-<h1> PRIMER PROYECTO COMO ANALISTA DE DATOS DE ALURA</h1>
-
 # 📊 Análisis Comparativo de Tiendas - Challenge Data Science
 
 ## 🧠 Objetivo
